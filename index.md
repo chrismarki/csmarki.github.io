@@ -1,19 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to CsMarki's page
 
 You can use the [editor on GitHub](https://github.com/csmarki/csmarki.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I'll update this page every once in a while with projects with a defined scope and deadline. 
 
 ```markdown
-Syntax highlighted code block
+# Project 1: Create a hangman 
 
-# Header 1
-## Header 2
-### Header 3
+Scope: Create Hangman with error handling
+Deadline: One week 
+Tech: Python Command prompts
 
 - Bulleted
 - List
