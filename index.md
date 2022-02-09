@@ -15,6 +15,25 @@ Scope: Create Hangman with error handling
 Deadline: One week 
 Tech: Python Command prompts
 
+## Day 1
+
+Scope work:
+- Understand how Hangman works
+   ### Rules
+    1. Using 26 letters of the Alphabet, pick one letter at a time to guess the randomized target word.
+    2. Choosing a letter not in the target word will build the hang man in ASCII art 
+    3. The number of letters will be revealed at the start as underscores (_)
+    4. Correctly chosen letters will be revealed on the Hangman
+  
+ 
+**Action Items**
+ -Get a word bank
+ -Develop system of submitting guesses and checking against word bank / Error handling
+ -Implement ASCII Art per guess 
+ -Develop Restarting/Game Over 
+
+
+
 - Bulleted
 - List
 
