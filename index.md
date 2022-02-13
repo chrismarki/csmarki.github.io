@@ -32,7 +32,11 @@ Scope work:
  -Implement ASCII Art per guess 
  -Develop Restarting/Game Over 
 
+Day 1
+-Established the word bank, submitting guesses/error handling 
 
+Day 4 
+-Drew the ASCII art based on the guesses submitted
 
 - Bulleted
 - List
