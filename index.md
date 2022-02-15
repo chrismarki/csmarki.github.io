@@ -38,6 +38,9 @@ Day 1
 Day 4 
 -Drew the ASCII art based on the guesses submitted
 
+Day 7 
+-Finished the game. It's day seven but the total elapsed time was much shorter to develop. So I'm happy I was able to develop it within scope. 
+
 - Bulleted
 - List
 
